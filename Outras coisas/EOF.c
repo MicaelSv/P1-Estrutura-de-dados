@@ -40,6 +40,7 @@ int main() {
     i2 = i; //salva o valor de i
     j2 = j; //salva o valor de j
     rc = i;
+	    
     if(i > j){
         aux = i;
         i = j;
@@ -47,9 +48,11 @@ int main() {
         rc = i;
         obs(i, j, i2, j2, 1, 1, rc);
     }
+    
     else{
-    obs(i, j, i2, j2, 1, 1, rc);
+    	obs(i, j, i2, j2, 1, 1, rc);
     }
+	    
     }
     
     else{
