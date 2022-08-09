@@ -31,8 +31,6 @@ int obs(int i, int j, int i2, int j2, int cont, int max, int realcont){
 }
 
 
-
-
 int main() {
 
     int i, i2, j, j2, rc, aux;
