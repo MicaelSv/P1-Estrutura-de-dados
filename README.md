@@ -1,2 +1,2 @@
 # P1 / Estrutura de dados
-Algumas coisas que aprendi tanto na matéria de P1 na faculdade, quanto em coisas externas.
+Algumas das coisas que desenvolvi nas matérias de P1 e Estrutura de dados
